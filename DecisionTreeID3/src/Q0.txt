@@ -1,0 +1,1 @@
+Yes. Their target functions are both discrete, and they require disjunctive hypothesis. They also includes some noisy data for training, and their attributes are binary.
